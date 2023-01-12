@@ -4,3 +4,4 @@
  Задачи 2:
  - Задача 3: [Модуль SystemVerilog](xor4.v)
  - Задача 4: [Тестбенч (С++)](xor4.cpp)
+ - Задача 5: [Модуль SystemVerilog](npriority.v), [Тестбенч (C++)](npriority.cpp)

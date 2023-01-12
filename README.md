@@ -7,6 +7,13 @@
 
 Для Windows рекомендуется пользоваться [MSYS2](https://www.msys2.org/) или [WSL](https://learn.microsoft.com/en-us/windows/wsl/install). Для macOS потребуется [Homebrew](https://brew.sh/).
 
+## Make-файл
+
+### Сборка конкретного модуля 
+
+    $ make <имя модуля>
+
+## Реализованные задачи
 Усложнённые задачи 1:
  - Задача 2 (task_h1_2): [Модуль SystemVerilog](task_h1_2.v), [Тестбенч (С++)](task_h1_2.cpp)
  
